@@ -86,7 +86,7 @@ const LandingFooter: React.FC = () => {
           </div>
         </div>
         <div className="border-t border-white/5 pt-8 text-center text-xs text-slate-500">
-          © 2024 FindBack AI. Built for the Campus Community.
+          © 2026 FindBack AI. Built for the Campus Community.
         </div>
       </div>
     </footer>
